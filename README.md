@@ -1,4 +1,4 @@
-# Open-Source Call Center Setup Training
+# Call Center Setup Training
 **School of Freelancing**
 
 | | |
